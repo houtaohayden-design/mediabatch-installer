@@ -18,7 +18,7 @@ Windows 当前提供便携版 zip。下载后解压，双击目录里的 `素材
 {
   "version": "0.2.0",
   "release_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/tag/v0.2.0",
-  "download_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/download/v0.2.0/素材批量加工工具-v0.2.0-Windows-便携版.zip",
+  "download_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/download/v0.2.0/mediabatch-v0.2.0-windows-portable.zip",
   "notes": "版本说明"
 }
 ```
