@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "release_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/tag/v0.2.0",
-  "download_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/download/v0.2.0/mediabatch-v0.2.0-windows-portable.zip",
-  "notes": "新增左下角版本号和检查更新入口；同步画中画模板叠加、自定义小数比例、视频处理说明与界面优化。"
+  "version": "0.2.1",
+  "release_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/tag/v0.2.1",
+  "download_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/download/v0.2.1/mediabatch-v0.2.1-windows-portable.zip",
+  "notes": "图片处理和压缩瘦身均支持 KB/MB 目标体积单位；左侧功能菜单新增图标。"
 }
