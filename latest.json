@@ -1,0 +1,6 @@
+{
+  "version": "0.2.0",
+  "release_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/tag/v0.2.0",
+  "download_url": "https://github.com/houtaohayden-design/mediabatch-installer/releases/download/v0.2.0/%E7%B4%A0%E6%9D%90%E6%89%B9%E9%87%8F%E5%8A%A0%E5%B7%A5%E5%B7%A5%E5%85%B7-v0.2.0-Windows-%E4%BE%BF%E6%90%BA%E7%89%88.zip",
+  "notes": "新增左下角版本号和检查更新入口；同步画中画模板叠加、自定义小数比例、视频处理说明与界面优化。"
+}
